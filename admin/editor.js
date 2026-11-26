@@ -1,4 +1,4 @@
-import {GithubStore} from './github.mjs';
+import {GithubStore} from './github.mjs?v=20261126-fetch2';
 let store;
 const $=s=>document.querySelector(s),ed=$('#admin-editor');let content,etag,dirty=false,busy=false,revision=0,current='profile';const categories=['文艺短片','商业影像','实拍短剧','AI 影像'];const subs=['AI 横屏精品电影','横屏精品','国内竖屏短剧','海外竖屏短剧','宣传片 / 广告','项目档案'];
 function node(t,text,c){const n=document.createElement(t);if(text)n.textContent=text;if(c)n.className=c;return n}function status(t){$('#status').textContent=t}function changed(){revision++;dirty=true;status('有尚未保存的修改')}function button(text,fn,cls){const b=node('button',text,cls);b.type='button';b.onclick=fn;return b}function field(title,value,onchange,multiline=false,options=null){const l=node('label',null,'field');l.append(node('span',title));const i=node(options?'select':multiline?'textarea':'input');if(options)options.forEach(v=>{const o=node('option',v);o.value=v;i.append(o)});i.value=value||'';i.oninput=()=>{onchange(i.value);changed()};l.append(i);return l}
