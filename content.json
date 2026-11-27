@@ -1,1 +1,1584 @@
-{"profile": {"name": "阴奕凡", "english": "YIN YIFAN", "title": "青年导演 · 制片人 · AI 导演 · AIGC 培训讲师", "headline": "从真实现场，走向无限影像。", "intro": "从文艺短片、纪录片、商业影像到40余部实拍短剧，以六年影视制作经验为根基，延伸至 AI 漫剧与仿真人短剧创作。以导演与制片的完整视角，让叙事、表演、镜头与技术共同服务作品。", "credentials": "天津国际电影学术联展（TIFA）青年电影组委会名誉主委\n天津师范大学广播电视编导专业本科", "achievements": "6年影视制作实战经验\n40余部实拍短剧制作经历\n参与制作的实拍及AI短剧累计播放量突破100亿\n相关实拍短剧作品累计分账超8000万元", "experience": "文艺创作｜独立导演《再度重相逢》《第四十公里》；执行制片《六点前》，入围第18届 FIRST 青年电影展 FIRST PIONEER 先锋创作单元，并入选张献民“十荐之四”片单。\n实拍影视｜新华社（天津）分社系列纪录片摄影、商业影像制作，参与《一拳定乾坤》《差生归来》《飞刀侠客》等实拍短剧。\nAI 创作｜从剧本拆解、分镜设计、角色场景到 AI 生成和后期交付，专注 AI 漫剧、仿真人短剧创作，并担任 AIGC 培训讲师。", "email": "2426320018@qq.com", "portrait": "stills/portrait-new.jpg", "background": "stills/consciousness.jpg"}, "projects": [{"sections": [{"title": "创作 / 从文字到影像", "text": "导演爱情文艺短片，兼任制片。从剧本创作、团队组建到摄影、灯光与剪辑，完整参与影视制作全流程。"}, {"title": "影展 / 入围", "text": "英国 LOGN 潘伍德电影节入围；光谷 WH 武汉青年电影展入围。"}], "gallery": [{"id": "portfolio/p07-02.jpg", "src": "portfolio/p07-02.jpg", "caption": "作品集 · 第 7 页"}, {"id": "portfolio/p07-03.jpg", "src": "portfolio/p07-03.jpg", "caption": "作品集 · 第 7 页"}, {"id": "portfolio/p07-04.jpg", "src": "portfolio/p07-04.jpg", "caption": "作品集 · 第 7 页"}, {"id": "portfolio/p07-05.jpg", "src": "portfolio/p07-05.jpg", "caption": "作品集 · 第 7 页"}, {"id": "portfolio/p07-06.jpg", "src": "portfolio/p07-06.jpg", "caption": "作品集 · 第 7 页"}], "id": "project-01", "category": "文艺短片", "role": "导演 / 制片人", "title": "再度重相逢", "description": "爱情文艺短片。从剧本、团队组建到摄影、灯光与剪辑，参与全流程创作。入围英国 LOGN 潘伍德电影节、光谷 WH 武汉青年电影展。", "videos": [], "subcategory": "", "cover": "portfolio/p07-05.jpg"}, {"sections": [{"title": "导演 / 再次创作", "text": "犯罪文艺短片。从剧本与团队搭建出发，在导演创作技巧、摄影技术与现场执行层面展开创作。"}, {"title": "影展 / 入围", "text": "南京仙林国际电影节。"}], "gallery": [{"id": "portfolio/p09-02.jpg", "src": "portfolio/p09-02.jpg", "caption": "作品集 · 第 9 页"}, {"id": "portfolio/p09-03.jpg", "src": "portfolio/p09-03.jpg", "caption": "作品集 · 第 9 页"}, {"id": "portfolio/p09-04.jpg", "src": "portfolio/p09-04.jpg", "caption": "作品集 · 第 9 页"}, {"id": "portfolio/p09-05.jpg", "src": "portfolio/p09-05.jpg", "caption": "作品集 · 第 9 页"}], "id": "project-02", "category": "文艺短片", "role": "导演 / 制片人", "title": "第四十公里", "description": "犯罪文艺短片。从剧本与团队搭建出发，结合导演创作与摄影技术完成影片。入围南京仙林国际电影节。", "videos": [], "subcategory": "", "cover": "portfolio/p09-04.jpg"}, {"sections": [{"title": "摄影 / 持续参与", "text": "作为摄影指导，从前期到后期持续跟进；全程掌机拍摄，并就影片结构、色彩及影调提出建设性意见，与团队共同完善影像表达。"}, {"title": "荣誉 / 获奖", "text": "天津微视频大赛二等奖；全国大学生电视艺术节优秀作品奖。"}], "gallery": [{"id": "portfolio/p06-03.jpg", "src": "portfolio/p06-03.jpg", "caption": "作品集 · 第 6 页"}, {"id": "portfolio/p06-04.jpg", "src": "portfolio/p06-04.jpg", "caption": "作品集 · 第 6 页"}, {"id": "portfolio/p06-05.jpg", "src": "portfolio/p06-05.jpg", "caption": "作品集 · 第 6 页"}], "id": "project-03", "category": "文艺短片", "role": "摄影指导", "title": "书店还在", "description": "纪录片。参与前期至后期影像创作，全程掌机拍摄，并就影片结构、色彩与影调提出建议。获天津微视频大赛二等奖、全国大学生电视艺术节优秀作品奖。", "videos": [], "subcategory": "", "cover": "portfolio/p06-03.jpg"}, {"sections": [{"title": "项目 / 医疗题材制作", "text": "在四川省医学科技创新研究会、四川大学华西医院牵头的项目中，以执行制片身份主导制作落地。作品集记录：50万元预算内完成73集拍摄，获平台医疗题材短剧热度TOP3。"}, {"title": "筹备 / 场景与资源", "text": "梳理12类核心医学场景，协调诊室、模拟中心与场景合规审核。通过错峰与公益合作，将场地成本由12万元降至5万元；协调模拟医疗设备及2名医学顾问驻组。"}, {"title": "计划 / 档期与成本", "text": "针对专家碎片化档期，将7天计划拆分为6天主线集中拍摄与1天弹性补拍。提前3天确认场地权限，设置备用场景与道具复用清单。"}, {"title": "现场 / 应变与专业", "text": "分设拍摄、道具、休息区，安排场务保障医院秩序。设备突发故障时，15分钟内协调备用设备并调整拍摄顺序；配合医学顾问修正演员动作。作品集记录项目最终节省预算13%、提效20%。"}], "gallery": [{"id": "portfolio/p18-02.jpg", "src": "portfolio/p18-02.jpg", "caption": "作品集 · 第 18 页"}, {"id": "portfolio/p18-03.jpg", "src": "portfolio/p18-03.jpg", "caption": "作品集 · 第 18 页"}, {"id": "portfolio/p18-04.jpg", "src": "portfolio/p18-04.jpg", "caption": "作品集 · 第 18 页"}, {"id": "portfolio/p18-05.jpg", "src": "portfolio/p18-05.jpg", "caption": "作品集 · 第 18 页"}, {"id": "portfolio/p18-06.jpg", "src": "portfolio/p18-06.jpg", "caption": "作品集 · 第 18 页"}, {"id": "portfolio/p18-07.jpg", "src": "portfolio/p18-07.jpg", "caption": "作品集 · 第 18 页"}, {"id": "portfolio/p18-08.jpg", "src": "portfolio/p18-08.jpg", "caption": "作品集 · 第 18 页"}, {"id": "portfolio/p18-09.jpg", "src": "portfolio/p18-09.jpg", "caption": "作品集 · 第 18 页"}], "id": "project-04", "category": "实拍短剧", "role": "执行制片", "title": "飞刀侠客", "description": "医疗题材短剧。统筹医学场景、拍摄计划、专家档期与现场执行，协调医疗顾问及专业道具，保障拍摄进度与制作专业度。", "videos": [], "subcategory": "", "cover": "portfolio/p18-02.jpg"}, {"sections": [{"title": "前期 / 建立年代视觉", "text": "深入拆解剧本并完成动态分镜，建立90年代复古视觉体系，统一色调、服饰与场景。构建关键词库与提示词体系，固定主角及宝物风格，沉淀可复用视觉资产。"}, {"title": "中期 / 生成与一致性", "text": "监控AI生图、生视频，筛选符合戏剧氛围的构图和光影；反复调校镜头运动、人物表情与宝物质感，降低生成随机性，保障镜头之间的连贯性。"}, {"title": "后期 / 视听整合", "text": "把控剪辑叙事节奏与调色层次，配置环境音、对白及配乐，完成“金瞳”视效与全片完整性检查。作品上线爱奇艺，获绘火工作室“年度优质漫剧大赏”（据提供的简历）。"}], "gallery": [{"id": "portfolio/p26-02.jpg", "src": "portfolio/p26-02.jpg", "caption": "作品集 · 第 26 页"}, {"id": "portfolio/p26-03.jpg", "src": "portfolio/p26-03.jpg", "caption": "作品集 · 第 26 页"}, {"id": "portfolio/p26-04.jpg", "src": "portfolio/p26-04.jpg", "caption": "作品集 · 第 26 页"}, {"id": "portfolio/p26-05.jpg", "src": "portfolio/p26-05.jpg", "caption": "作品集 · 第 26 页"}, {"id": "portfolio/p26-06.jpg", "src": "portfolio/p26-06.jpg", "caption": "作品集 · 第 26 页"}, {"id": "portfolio/p26-07.jpg", "src": "portfolio/p26-07.jpg", "caption": "作品集 · 第 26 页"}, {"id": "portfolio/p26-08.jpg", "src": "portfolio/p26-08.jpg", "caption": "作品集 · 第 26 页"}, {"id": "portfolio/p26-09.jpg", "src": "portfolio/p26-09.jpg", "caption": "作品集 · 第 26 页"}, {"id": "portfolio/p26-10.jpg", "src": "portfolio/p26-10.jpg", "caption": "作品集 · 第 26 页"}, {"id": "portfolio/p26-11.jpg", "src": "portfolio/p26-11.jpg", "caption": "作品集 · 第 26 页"}], "id": "project-05", "category": "AI 影像", "role": "AI 导演", "title": "重回90：金瞳鉴宝发家，全家悔不当初", "description": "围绕复仇与大男主题材，负责剧本拆解、动态分镜与90年代复古视觉体系建立；统筹人物及场景资产、AI生图与视频质量，并把控剪辑、调色、声音与特效交付。", "videos": [], "subcategory": "项目档案", "cover": "portfolio/p26-02.jpg"}, {"sections": [{"title": "前期 / IP解读", "text": "解读原著与剧本，提炼炮灰觉醒、复仇逆袭等核心叙事及人物特征，明确改编方向和视觉风格。"}, {"title": "中期 / 分镜与生成", "text": "设计动态分镜与高潮镜头，通过提示词固定人物面容、统一场景光影，监控人物表情、动作流畅度与特效质感。"}, {"title": "后期 / 成片审核", "text": "以剪辑强化叙事节奏，完成特效与声音整合，审核IP还原度、人设与视听品质。提供的作品集中标注为待发布，当前发行状态待更新。"}], "gallery": [{"id": "portfolio/p27-02.jpg", "src": "portfolio/p27-02.jpg", "caption": "作品集 · 第 27 页"}, {"id": "portfolio/p27-03.jpg", "src": "portfolio/p27-03.jpg", "caption": "作品集 · 第 27 页"}, {"id": "portfolio/p28-02.jpg", "src": "portfolio/p28-02.jpg", "caption": "作品集 · 第 28 页"}, {"id": "portfolio/p28-03.jpg", "src": "portfolio/p28-03.jpg", "caption": "作品集 · 第 28 页"}, {"id": "portfolio/p28-04.jpg", "src": "portfolio/p28-04.jpg", "caption": "作品集 · 第 28 页"}, {"id": "portfolio/p28-05.jpg", "src": "portfolio/p28-05.jpg", "caption": "作品集 · 第 28 页"}, {"id": "portfolio/p28-06.jpg", "src": "portfolio/p28-06.jpg", "caption": "作品集 · 第 28 页"}, {"id": "portfolio/p28-07.jpg", "src": "portfolio/p28-07.jpg", "caption": "作品集 · 第 28 页"}, {"id": "portfolio/p28-08.jpg", "src": "portfolio/p28-08.jpg", "caption": "作品集 · 第 28 页"}, {"id": "portfolio/p28-09.jpg", "src": "portfolio/p28-09.jpg", "caption": "作品集 · 第 28 页"}, {"id": "portfolio/p28-10.jpg", "src": "portfolio/p28-10.jpg", "caption": "作品集 · 第 28 页"}, {"id": "portfolio/p28-11.jpg", "src": "portfolio/p28-11.jpg", "caption": "作品集 · 第 28 页"}], "id": "project-06", "category": "AI 影像", "role": "AI 导演", "title": "病从梦中惊坐起，炮灰竟是我自己", "description": "修仙、复仇题材 IP 改编项目。负责剧本与角色解读、动态分镜、提示词体系、人物及场景一致性控制，并把控后期节奏与视听品质。", "videos": [], "subcategory": "项目档案", "cover": "portfolio/p27-02.jpg"}, {"sections": [{"title": "职责 / 制片与执行导演", "text": "2023年11月至12月，负责协助导演进行现场调度，执行镜头创意，协调现场各部门统筹安排。"}], "gallery": [{"id": "portfolio/p13-00.jpg", "src": "portfolio/p13-00.jpg", "caption": "作品集 · 第 13 页"}, {"id": "portfolio/p13-01.jpg", "src": "portfolio/p13-01.jpg", "caption": "作品集 · 第 13 页"}, {"id": "portfolio/p13-02.jpg", "src": "portfolio/p13-02.jpg", "caption": "作品集 · 第 13 页"}, {"id": "portfolio/p13-03.jpg", "src": "portfolio/p13-03.jpg", "caption": "作品集 · 第 13 页"}, {"id": "portfolio/p13-04.jpg", "src": "portfolio/p13-04.jpg", "caption": "作品集 · 第 13 页"}, {"id": "portfolio/p13-05.jpg", "src": "portfolio/p13-05.jpg", "caption": "作品集 · 第 13 页"}], "id": "project-07", "category": "商业影像", "role": "制片人 / 执行导演", "title": "LENOVO YOGA 咖啡机 TVC", "description": "负责现场调度与跨部门统筹，协助导演实现镜头创意，协调拍摄执行与现场制作。", "videos": [], "subcategory": "", "cover": "portfolio/p13-00.jpg"}, {"sections": [{"title": "制片 / 连接创作与执行", "text": "向上对接导演与制片人，向下协调演员、工作人员组建、剧组通勤、住宿与饮食等事务，确保现实主义文艺短片的拍摄落地。"}, {"title": "影展 / 入围", "text": "第18届 FIRST 青年电影展 FIRST PIONEER 先锋创作单元。"}], "gallery": [{"id": "portfolio/p08-02.jpg", "src": "portfolio/p08-02.jpg", "caption": "作品集 · 第 8 页"}, {"id": "portfolio/p08-03.jpg", "src": "portfolio/p08-03.jpg", "caption": "作品集 · 第 8 页"}, {"id": "portfolio/p08-04.jpg", "src": "portfolio/p08-04.jpg", "caption": "作品集 · 第 8 页"}], "id": "project-08", "category": "文艺短片", "role": "执行制片", "title": "六点前", "description": "现实主义文艺短片。负责导演与制片人对接、演员协调、工作人员组建及剧组通勤与生活统筹。入围第18届 FIRST 青年电影展 FIRST PIONEER 先锋创作单元。", "videos": [], "subcategory": "", "cover": "portfolio/p08-04.jpg"}, {"sections": [{"title": "职责 / AI全流程", "text": "参与公司承制的AI动态漫剧，从剧本解读、视觉化拆解到动态分镜、素材生成审核与成片交付。"}, {"title": "项目表现 / 资料记录", "text": "据最新讲师海报：红果上线三天热度破5500万，收藏12.1万。"}], "gallery": [], "id": "project-09", "category": "AI 影像", "role": "AI 导演", "title": "末世降临", "description": "参与 AI 动态漫剧全流程制作，覆盖剧本视觉化拆解、分镜设计、AI 影像生成监制及成片交付。", "videos": [], "subcategory": "项目档案", "cover": null}, {"sections": [{"title": "前期 / 合作与方案", "text": "与“刚刚好影视”合作真人AI短剧推文，接收网文IP或原创剧本，明确剧目风格、受众及平台策略；筛选人物资产并规划场景、道具与视频生成。"}, {"title": "制作 / 分阶段交付", "text": "导演负责AI全流程素材制作，按节点交付粗剪和精剪，依据反馈完成竖屏成片。统筹提示词体系、人物表现、光影氛围与素材衔接。"}, {"title": "后期 / 品控与表现", "text": "据最新讲师海报：全平台播放量破2亿。"}], "gallery": [], "id": "project-10", "category": "AI 影像", "role": "AI 导演", "title": "再世不救", "description": "真人 AI 短剧推文项目。参与人物、场景、道具及视频资产生成，统筹阶段性审核、剪辑节奏、声音与视觉效果交付。", "videos": [], "subcategory": "项目档案", "cover": null}, {"sections": [{"title": "外联 / 让场景落地", "text": "3天内筛选并实地勘查8处备选场地，覆盖样板间、私宅与民宿，匹配导演创作需求。通过保险、现场维护与影像合作方案，推进低成本场地合作。"}, {"title": "置景 / 空间改造", "text": "联动美术及道具团队，利用建筑绿网、木托盘、铁桶等物料，48小时内将空置厂房改造为破败仓库；以石膏粉、涂鸦和灯光强化氛围，作品集记录总成本控制在1000元以内。"}], "gallery": [{"id": "portfolio/p19-02.jpg", "src": "portfolio/p19-02.jpg", "caption": "作品集 · 第 19 页"}, {"id": "portfolio/p19-03.jpg", "src": "portfolio/p19-03.jpg", "caption": "作品集 · 第 19 页"}, {"id": "portfolio/p19-04.jpg", "src": "portfolio/p19-04.jpg", "caption": "作品集 · 第 19 页"}, {"id": "portfolio/p19-05.jpg", "src": "portfolio/p19-05.jpg", "caption": "作品集 · 第 19 页"}, {"id": "portfolio/p19-06.jpg", "src": "portfolio/p19-06.jpg", "caption": "作品集 · 第 19 页"}, {"id": "portfolio/p19-07.jpg", "src": "portfolio/p19-07.jpg", "caption": "作品集 · 第 19 页"}], "id": "project-11", "category": "实拍短剧", "role": "外联制片", "title": "我的老婆是双胞胎", "description": "负责场地筛选、实地勘景与合作洽谈，联动美术和道具团队完成低成本场景改造，为剧本创意提供落地保障。", "videos": [], "subcategory": "", "cover": "portfolio/p19-02.jpg"}, {"sections": [{"title": "现场 / 秩序与进度", "text": "每日开工前明确场务、安保和车辆职责，协调公共区域车辆动线、临时隔离与围观人群，保证画面与拍摄连贯性。"}, {"title": "应变 / 天气与团队", "text": "提前建立A/B拍摄计划，酷暑时将外景集中到早晚，午间转为室内拍摄。面对人员突发身体不适，协调现场医护与就医安排，兼顾团队安全与拍摄进度。"}], "gallery": [{"id": "portfolio/p20-02.jpg", "src": "portfolio/p20-02.jpg", "caption": "作品集 · 第 20 页"}, {"id": "portfolio/p20-03.jpg", "src": "portfolio/p20-03.jpg", "caption": "作品集 · 第 20 页"}, {"id": "portfolio/p20-04.jpg", "src": "portfolio/p20-04.jpg", "caption": "作品集 · 第 20 页"}, {"id": "portfolio/p20-05.jpg", "src": "portfolio/p20-05.jpg", "caption": "作品集 · 第 20 页"}], "id": "project-12", "category": "实拍短剧", "role": "现场制片", "title": "穿书归来，男配不再当", "description": "负责每日拍摄计划执行、外景秩序、车辆动线及跨部门协作，根据天气变化调整拍摄安排，并处理现场突发情况。", "videos": [], "subcategory": "", "cover": "portfolio/p20-02.jpg"}, {"sections": [{"title": "前期 / 视觉连续性", "text": "与外联制片、美术共同勘景，从机位、光线与转场动线预判可拍摄性；逐日核对服化道，区分人物不同阶段的服装材质、妆容及道具状态。"}, {"title": "现场 / 表演与调度", "text": "将导演宏观方向转化为可操作的表演指令；预演演员走位，联动摄影确认焦点、景别与运动轨迹，协调场务和化妆，保障拍摄动态推进。"}], "gallery": [{"id": "portfolio/p21-02.jpg", "src": "portfolio/p21-02.jpg", "caption": "作品集 · 第 21 页"}, {"id": "portfolio/p21-03.jpg", "src": "portfolio/p21-03.jpg", "caption": "作品集 · 第 21 页"}, {"id": "portfolio/p21-04.jpg", "src": "portfolio/p21-04.jpg", "caption": "作品集 · 第 21 页"}, {"id": "portfolio/p21-05.jpg", "src": "portfolio/p21-05.jpg", "caption": "作品集 · 第 21 页"}, {"id": "portfolio/p21-06.jpg", "src": "portfolio/p21-06.jpg", "caption": "作品集 · 第 21 页"}], "id": "project-13", "category": "实拍短剧", "role": "执行导演", "title": "掐指一算，人生上上签", "description": "参与勘景、服化道连续性核对、演员说戏及走位预演，联动摄影与场务部门，将导演的创作方向转化为具体执行。", "videos": [], "subcategory": "", "cover": "portfolio/p21-02.jpg"}, {"sections": [{"title": "摄影 / 纪实现场", "text": "2021—2022年参与新华社（天津）分社“做一天同事”系列纪录片拍摄。作品在新华社客户端、B站等渠道传播，作品集记录播放量超过20万。"}], "gallery": [{"id": "portfolio/p11-02.jpg", "src": "portfolio/p11-02.jpg", "caption": "作品集 · 第 11 页"}, {"id": "portfolio/p11-03.jpg", "src": "portfolio/p11-03.jpg", "caption": "作品集 · 第 11 页"}, {"id": "portfolio/p11-04.jpg", "src": "portfolio/p11-04.jpg", "caption": "作品集 · 第 11 页"}, {"id": "portfolio/p11-05.jpg", "src": "portfolio/p11-05.jpg", "caption": "作品集 · 第 11 页"}], "id": "project-14", "category": "商业影像", "role": "摄影", "title": "做一天同事", "description": "新华社（天津）分社系列纪录片拍摄项目，以摄影参与人物与日常工作场景记录。", "videos": [], "subcategory": "", "cover": "portfolio/p11-02.jpg"}, {"sections": [{"title": "荣誉", "text": "中国青年报校园媒体优秀创作奖。具体个人工种将在补充资料后完善。"}], "gallery": [], "id": "project-15", "category": "文艺短片", "role": "纪录片", "title": "蛤蟆吐蜜", "description": "纪录片创作项目，获中国青年报校园媒体优秀创作奖。", "videos": [], "subcategory": "", "cover": null}, {"sections": [{"title": "项目", "text": "天津师范大学经济学院20周年院庆宣传片。具体个人工种及影片将随视频资料补充。"}], "gallery": [{"id": "portfolio/p12-02.jpg", "src": "portfolio/p12-02.jpg", "caption": "作品集 · 第 12 页"}, {"id": "portfolio/p12-03.jpg", "src": "portfolio/p12-03.jpg", "caption": "作品集 · 第 12 页"}, {"id": "portfolio/p12-04.jpg", "src": "portfolio/p12-04.jpg", "caption": "作品集 · 第 12 页"}, {"id": "portfolio/p12-05.jpg", "src": "portfolio/p12-05.jpg", "caption": "作品集 · 第 12 页"}, {"id": "portfolio/p12-06.jpg", "src": "portfolio/p12-06.jpg", "caption": "作品集 · 第 12 页"}], "id": "project-16", "category": "商业影像", "role": "宣传片", "title": "天津师范大学经济学院20周年院庆宣传片", "description": "高校院庆宣传片拍摄项目。", "videos": [], "subcategory": "", "cover": "portfolio/p12-02.jpg"}, {"sections": [{"title": "活动拍摄", "text": "2024北京朝阳·波尔多红酒节、龙梅子“都说”巡回演唱会、北京半程马拉松、岳阳农业集团相关拍摄。"}, {"title": "综艺制作", "text": "“DR.FUN的游戏”大学生自制综艺及天津电视台“小津门少年行”综艺节目，担任统筹制片。"}], "gallery": [{"id": "portfolio/p14-00.jpg", "src": "portfolio/p14-00.jpg", "caption": "作品集 · 第 14 页"}, {"id": "portfolio/p14-01.jpg", "src": "portfolio/p14-01.jpg", "caption": "作品集 · 第 14 页"}, {"id": "portfolio/p14-03.jpg", "src": "portfolio/p14-03.jpg", "caption": "作品集 · 第 14 页"}, {"id": "portfolio/p14-04.jpg", "src": "portfolio/p14-04.jpg", "caption": "作品集 · 第 14 页"}, {"id": "portfolio/p15-02.jpg", "src": "portfolio/p15-02.jpg", "caption": "作品集 · 第 15 页"}, {"id": "portfolio/p15-03.jpg", "src": "portfolio/p15-03.jpg", "caption": "作品集 · 第 15 页"}, {"id": "portfolio/p15-04.jpg", "src": "portfolio/p15-04.jpg", "caption": "作品集 · 第 15 页"}, {"id": "portfolio/p15-05.jpg", "src": "portfolio/p15-05.jpg", "caption": "作品集 · 第 15 页"}, {"id": "portfolio/p15-06.jpg", "src": "portfolio/p15-06.jpg", "caption": "作品集 · 第 15 页"}], "id": "project-17", "category": "商业影像", "role": "活动摄影 / 统筹制片", "title": "商业活动与综艺", "description": "商业活动影像与综艺节目制作经历。", "videos": [], "subcategory": "", "cover": "portfolio/p14-00.jpg"}, {"sections": [], "id": "project-18", "category": "实拍短剧", "role": "项目集", "title": "实拍短剧项目集", "description": "参与40余部实拍短剧制作，覆盖都市情感、悬疑推理、古装甜宠等题材。以下为作品集中的项目现场与成果记录。", "gallery": [{"id": "portfolio/p17-02.jpg", "src": "portfolio/p17-02.jpg", "caption": "作品集 · 第 17 页"}, {"id": "portfolio/p17-03.jpg", "src": "portfolio/p17-03.jpg", "caption": "作品集 · 第 17 页"}, {"id": "portfolio/p17-04.jpg", "src": "portfolio/p17-04.jpg", "caption": "作品集 · 第 17 页"}, {"id": "portfolio/p17-05.jpg", "src": "portfolio/p17-05.jpg", "caption": "作品集 · 第 17 页"}, {"id": "portfolio/p17-06.jpg", "src": "portfolio/p17-06.jpg", "caption": "作品集 · 第 17 页"}, {"id": "portfolio/p17-07.jpg", "src": "portfolio/p17-07.jpg", "caption": "作品集 · 第 17 页"}, {"id": "portfolio/p17-08.jpg", "src": "portfolio/p17-08.jpg", "caption": "作品集 · 第 17 页"}, {"id": "portfolio/p17-09.jpg", "src": "portfolio/p17-09.jpg", "caption": "作品集 · 第 17 页"}, {"id": "portfolio/p17-10.jpg", "src": "portfolio/p17-10.jpg", "caption": "作品集 · 第 17 页"}, {"id": "portfolio/p17-11.jpg", "src": "portfolio/p17-11.jpg", "caption": "作品集 · 第 17 页"}, {"id": "portfolio/p17-12.jpg", "src": "portfolio/p17-12.jpg", "caption": "作品集 · 第 17 页"}], "videos": [], "subcategory": "", "cover": "portfolio/p17-02.jpg"}, {"sections": [], "id": "project-19", "category": "AI 影像", "role": "项目集", "title": "AI 漫剧项目集", "description": "从影视视听语言出发，贯通剧本拆解、动态分镜、人物场景资产、AI生成与后期交付。", "gallery": [{"id": "portfolio/p24-02.jpg", "src": "portfolio/p24-02.jpg", "caption": "作品集 · 第 24 页"}, {"id": "portfolio/p24-03.jpg", "src": "portfolio/p24-03.jpg", "caption": "作品集 · 第 24 页"}, {"id": "portfolio/p24-04.jpg", "src": "portfolio/p24-04.jpg", "caption": "作品集 · 第 24 页"}, {"id": "portfolio/p24-05.jpg", "src": "portfolio/p24-05.jpg", "caption": "作品集 · 第 24 页"}], "videos": [], "subcategory": "项目档案", "cover": "portfolio/p24-02.jpg"}, {"sections": [], "id": "project-20", "category": "AI 影像", "role": "项目集", "title": "真人 AI 短剧项目集", "description": "与刚刚好影视合作真人 AI 短剧推文，作品集记录了项目海报与制作交付截图。", "gallery": [{"id": "portfolio/p30-03.jpg", "src": "portfolio/p30-03.jpg", "caption": "作品集 · 第 30 页"}, {"id": "portfolio/p30-04.jpg", "src": "portfolio/p30-04.jpg", "caption": "作品集 · 第 30 页"}, {"id": "portfolio/p30-05.jpg", "src": "portfolio/p30-05.jpg", "caption": "作品集 · 第 30 页"}, {"id": "portfolio/p30-06.jpg", "src": "portfolio/p30-06.jpg", "caption": "作品集 · 第 30 页"}, {"id": "portfolio/p30-07.jpg", "src": "portfolio/p30-07.jpg", "caption": "作品集 · 第 30 页"}, {"id": "portfolio/p30-08.jpg", "src": "portfolio/p30-08.jpg", "caption": "作品集 · 第 30 页"}, {"id": "portfolio/p30-09.jpg", "src": "portfolio/p30-09.jpg", "caption": "作品集 · 第 30 页"}, {"id": "portfolio/p31-02.jpg", "src": "portfolio/p31-02.jpg", "caption": "作品集 · 第 31 页"}, {"id": "portfolio/p31-03.jpg", "src": "portfolio/p31-03.jpg", "caption": "作品集 · 第 31 页"}, {"id": "portfolio/p31-04.jpg", "src": "portfolio/p31-04.jpg", "caption": "作品集 · 第 31 页"}, {"id": "portfolio/p31-05.jpg", "src": "portfolio/p31-05.jpg", "caption": "作品集 · 第 31 页"}, {"id": "portfolio/p31-06.jpg", "src": "portfolio/p31-06.jpg", "caption": "作品集 · 第 31 页"}, {"id": "portfolio/p31-07.jpg", "src": "portfolio/p31-07.jpg", "caption": "作品集 · 第 31 页"}], "videos": [], "subcategory": "项目档案", "cover": "portfolio/p30-03.jpg"}, {"id": "ai-01", "title": "Form Funk test", "category": "AI 影像", "subcategory": "宣传片 / 广告", "role": "AI 影像作品", "description": "", "sections": [], "gallery": [], "cover": "media/ai-01.jpg", "videos": [{"id": "ai-01", "title": "Form Funk test", "src": "media/ai-01.mp4", "poster": "media/ai-01.jpg"}], "aspect": "portrait"}, {"id": "ai-02", "title": "中国人寿 最终版 带ai水印", "category": "AI 影像", "subcategory": "宣传片 / 广告", "role": "AI 影像作品", "description": "", "sections": [], "gallery": [], "cover": "media/ai-02.jpg", "videos": [{"id": "ai-02", "title": "中国人寿 最终版 带ai水印", "src": "media/ai-02.mp4", "poster": "media/ai-02.jpg"}]}, {"id": "ai-03", "title": "酒店test demo", "category": "AI 影像", "subcategory": "宣传片 / 广告", "role": "AI 影像作品", "description": "", "sections": [], "gallery": [], "cover": "media/ai-03.jpg", "videos": [{"id": "ai-03", "title": "酒店test demo", "src": "media/ai-03.mp4", "poster": "media/ai-03.jpg"}], "aspect": "portrait"}, {"id": "ai-04", "title": "阿尔兹海默项目成片", "category": "AI 影像", "subcategory": "宣传片 / 广告", "role": "AI 影像作品", "description": "", "sections": [], "gallery": [], "cover": "media/ai-04.jpg", "videos": [{"id": "ai-04", "title": "阿尔兹海默项目成片", "src": "media/ai-04.mp4", "poster": "media/ai-04.jpg"}]}, {"id": "ai-05", "title": "01足球", "category": "AI 影像", "subcategory": "横屏精品", "role": "AI 影像作品", "description": "", "sections": [], "gallery": [], "cover": "media/ai-05.jpg", "videos": [{"id": "ai-05", "title": "01足球", "src": "media/ai-05.mp4", "poster": "media/ai-05.jpg"}]}, {"id": "ai-06", "title": "中年翻身", "category": "AI 影像", "subcategory": "横屏精品", "role": "AI 影像作品", "description": "", "sections": [], "gallery": [], "cover": "media/ai-06.jpg", "videos": [{"id": "ai-06", "title": "中年翻身", "src": "media/ai-06.mp4", "poster": "media/ai-06.jpg"}]}, {"id": "ai-07", "title": "九枝灯", "category": "AI 影像", "subcategory": "横屏精品", "role": "AI 影像作品", "description": "", "sections": [], "gallery": [], "cover": "media/ai-07.jpg", "videos": [{"id": "ai-07", "title": "九枝灯", "src": "media/ai-07.mp4", "poster": "media/ai-07.jpg"}]}, {"id": "ai-08", "title": "医心错嫁完", "category": "AI 影像", "subcategory": "横屏精品", "role": "AI 影像作品", "description": "", "sections": [], "gallery": [], "cover": "media/ai-08.jpg", "videos": [{"id": "ai-08", "title": "医心错嫁完", "src": "media/ai-08.mp4", "poster": "media/ai-08.jpg"}]}, {"id": "ai-09", "title": "守你一世长安修改03", "category": "AI 影像", "subcategory": "横屏精品", "role": "AI 影像作品", "description": "", "sections": [], "gallery": [], "cover": "media/ai-09.jpg", "videos": [{"id": "ai-09", "title": "守你一世长安修改03", "src": "media/ai-09.mp4", "poster": "media/ai-09.jpg"}]}, {"id": "ai-10", "title": "左爸右妈", "category": "AI 影像", "subcategory": "横屏精品", "role": "AI 影像作品", "description": "", "sections": [], "gallery": [], "cover": "media/ai-10.jpg", "videos": [{"id": "ai-10", "title": "左爸右妈", "src": "media/ai-10.mp4", "poster": "media/ai-10.jpg"}]}, {"id": "ai-11", "title": "蛊心 EP01", "category": "AI 影像", "subcategory": "横屏精品", "role": "AI 影像作品", "description": "", "sections": [], "gallery": [], "cover": "media/ai-11.jpg", "videos": [{"id": "ai-11", "title": "蛊心 EP01", "src": "media/ai-11.mp4", "poster": "media/ai-11.jpg"}]}, {"id": "ai-12", "title": "01死狱归来修改08", "category": "AI 影像", "subcategory": "国内竖屏短剧", "role": "AI 影像作品", "description": "", "sections": [], "gallery": [], "cover": "media/ai-12.jpg", "videos": [{"id": "ai-12", "title": "01死狱归来修改08", "src": "media/ai-12.mp4", "poster": "media/ai-12.jpg"}], "aspect": "portrait"}, {"id": "ai-13", "title": "09一拳超神全1", "category": "AI 影像", "subcategory": "国内竖屏短剧", "role": "AI 影像作品", "description": "", "sections": [], "gallery": [], "cover": "media/ai-13.jpg", "videos": [{"id": "ai-13", "title": "09一拳超神全1", "src": "media/ai-13.mp4", "poster": "media/ai-13.jpg"}], "aspect": "portrait"}, {"id": "ai-14", "title": "一拳超神EP01", "category": "AI 影像", "subcategory": "国内竖屏短剧", "role": "AI 影像作品", "description": "", "sections": [], "gallery": [], "cover": "media/ai-14.jpg", "videos": [{"id": "ai-14", "title": "一拳超神EP01", "src": "media/ai-14.mp4", "poster": "media/ai-14.jpg"}], "aspect": "portrait"}, {"id": "ai-15", "title": "大楚第一商", "category": "AI 影像", "subcategory": "国内竖屏短剧", "role": "AI 影像作品", "description": "", "sections": [], "gallery": [], "cover": "media/ai-15.jpg", "videos": [{"id": "ai-15", "title": "大楚第一商", "src": "media/ai-15.mp4", "poster": "media/ai-15.jpg"}], "aspect": "portrait"}, {"id": "ai-16", "title": "01新婚之夜试稿 v1", "category": "AI 影像", "subcategory": "海外竖屏短剧", "role": "AI 影像作品", "description": "", "sections": [], "gallery": [], "cover": "media/ai-16.jpg", "videos": [{"id": "ai-16", "title": "01新婚之夜试稿 v1", "src": "media/ai-16.mp4", "poster": "media/ai-16.jpg"}], "aspect": "portrait"}, {"id": "ai-17", "title": "1", "category": "AI 影像", "subcategory": "海外竖屏短剧", "role": "AI 影像作品", "description": "", "sections": [], "gallery": [], "cover": "media/ai-17.jpg", "videos": [{"id": "ai-17", "title": "1", "src": "media/ai-17.mp4", "poster": "media/ai-17.jpg"}], "aspect": "portrait"}, {"id": "ai-18", "title": "2", "category": "AI 影像", "subcategory": "海外竖屏短剧", "role": "AI 影像作品", "description": "", "sections": [], "gallery": [], "cover": "media/ai-18.jpg", "videos": [{"id": "ai-18", "title": "2", "src": "media/ai-18.mp4", "poster": "media/ai-18.jpg"}], "aspect": "portrait"}, {"id": "ai-19", "title": "7", "category": "AI 影像", "subcategory": "海外竖屏短剧", "role": "AI 影像作品", "description": "", "sections": [], "gallery": [], "cover": "media/ai-19.jpg", "videos": [{"id": "ai-19", "title": "7", "src": "media/ai-19.mp4", "poster": "media/ai-19.jpg"}], "aspect": "portrait"}, {"id": "ai-20", "title": "DZ-神话狼人", "category": "AI 影像", "subcategory": "海外竖屏短剧", "role": "AI 影像作品", "description": "", "sections": [], "gallery": [], "cover": "media/ai-20.jpg", "videos": [{"id": "ai-20", "title": "DZ-神话狼人", "src": "media/ai-20.mp4", "poster": "media/ai-20.jpg"}], "aspect": "portrait"}, {"id": "ai-21", "title": "北欧", "category": "AI 影像", "subcategory": "海外竖屏短剧", "role": "AI 影像作品", "description": "", "sections": [], "gallery": [], "cover": "media/ai-21.jpg", "videos": [{"id": "ai-21", "title": "北欧", "src": "media/ai-21.mp4", "poster": "media/ai-21.jpg"}], "aspect": "portrait"}, {"id": "ai-22", "title": "枫叶试稿成片", "category": "AI 影像", "subcategory": "海外竖屏短剧", "role": "AI 影像作品", "description": "", "sections": [], "gallery": [], "cover": "media/ai-22.jpg", "videos": [{"id": "ai-22", "title": "枫叶试稿成片", "src": "media/ai-22.mp4", "poster": "media/ai-22.jpg"}], "aspect": "portrait"}, {"id": "ai-23", "title": "男同最新", "category": "AI 影像", "subcategory": "海外竖屏短剧", "role": "AI 影像作品", "description": "", "sections": [], "gallery": [], "cover": "media/ai-23.jpg", "videos": [{"id": "ai-23", "title": "男同最新", "src": "media/ai-23.mp4", "poster": "media/ai-23.jpg"}], "aspect": "portrait"}, {"id": "ai-24", "title": "神话狼人", "category": "AI 影像", "subcategory": "海外竖屏短剧", "role": "AI 影像作品", "description": "", "sections": [], "gallery": [], "cover": "media/ai-24.jpg", "videos": [{"id": "ai-24", "title": "神话狼人", "src": "media/ai-24.mp4", "poster": "media/ai-24.jpg"}], "aspect": "portrait"}, {"id": "ai-25", "title": "转正后一炮三胎", "category": "AI 影像", "subcategory": "海外竖屏短剧", "role": "AI 影像作品", "description": "", "sections": [], "gallery": [], "cover": "media/ai-25.jpg", "videos": [{"id": "ai-25", "title": "转正后一炮三胎", "src": "media/ai-25.mp4", "poster": "media/ai-25.jpg"}], "aspect": "portrait"}, {"id": "film-01", "title": "天不应", "category": "AI 影像", "subcategory": "AI 横屏精品电影", "role": "AI 影像作品", "description": "", "sections": [], "gallery": [], "cover": "media/film-01.jpg", "videos": [{"id": "film-01", "title": "天不应3分钟PV 2", "src": "media/film-01.mp4", "poster": "media/film-01.jpg"}, {"id": "film-02", "title": "天不应8min", "src": "media/film-02.mp4", "poster": "media/film-02.jpg"}]}, {"id": "film-03", "title": "蛊心", "category": "AI 影像", "subcategory": "AI 横屏精品电影", "role": "AI 影像作品", "description": "", "sections": [], "gallery": [], "cover": "media/film-03.jpg", "videos": [{"id": "film-03", "title": "蛊心demo", "src": "media/film-03.mp4", "poster": "media/film-03.jpg"}]}, {"id": "film-04", "title": "青城山", "category": "AI 影像", "subcategory": "AI 横屏精品电影", "role": "AI 影像作品", "description": "", "sections": [], "gallery": [], "cover": "media/film-04.jpg", "videos": [{"id": "film-04", "title": "青城山", "src": "media/film-04.mp4", "poster": "media/film-04.jpg"}]}, {"id": "ad-01", "title": "巧媳妇", "category": "AI 影像", "subcategory": "宣传片 / 广告", "role": "", "description": "", "sections": [], "gallery": [], "cover": "media/ad-01.jpg", "videos": [{"id": "ad-01", "title": "巧媳妇", "src": "media/ad-01.mp4", "poster": "media/ad-01.jpg"}]}, {"id": "ad-02", "title": "一线之光", "category": "AI 影像", "subcategory": "宣传片 / 广告", "role": "", "description": "", "sections": [], "gallery": [], "cover": "media/ad-02.jpg", "videos": [{"id": "ad-02", "title": "一线之光", "src": "media/ad-02.mp4", "poster": "media/ad-02.jpg"}]}]}
+{
+  "profile": {
+    "name": "阴奕凡",
+    "english": "YIN YIFAN",
+    "title": "青年导演 · 制片人 · AI 导演 · AIGC 培训讲师",
+    "headline": "从真实现场，走向无限影像。",
+    "intro": "从文艺短片、纪录片、商业影像到40余部实拍短剧，以六年影视制作经验为根基，延伸至 AI 漫剧与仿真人短剧创作。以导演与制片的完整视角，让叙事、表演、镜头与技术共同服务作品。",
+    "credentials": "天津国际电影学术联展（TIFA）青年电影组委会名誉主委\n天津师范大学广播电视编导专业本科\n\"中关村创坛”x“数字北岸”天津AI创造者大会 特邀嘉宾",
+    "achievements": "6年影视制作实战经验\n40余部实拍短剧制作经历\n参与制作的实拍及AI短剧累计播放量突破100亿\n相关实拍短剧作品累计分账超8000万元",
+    "experience": "文艺创作｜独立导演《再度重相逢》《第四十公里》；执行制片《六点前》，入围第18届 FIRST 青年电影展 FIRST PIONEER 先锋创作单元，并入选张献民“十荐之四”片单。\n实拍影视｜新华社（天津）分社系列纪录片摄影、商业影像制作，参与《一拳定乾坤》《差生归来》《飞刀侠客》等实拍短剧。\nAI 创作｜从剧本拆解、分镜设计、角色场景到 AI 生成和后期交付，专注 AI 漫剧、仿真人短剧创作，并担任 AIGC 培训讲师。",
+    "email": "2426320018@qq.com",
+    "portrait": "stills/portrait-new.jpg",
+    "background": "stills/consciousness.jpg"
+  },
+  "projects": [
+    {
+      "sections": [
+        {
+          "title": "创作 / 从文字到影像",
+          "text": "导演爱情文艺短片，兼任制片。从剧本创作、团队组建到摄影、灯光与剪辑，完整参与影视制作全流程。"
+        },
+        {
+          "title": "影展 / 入围",
+          "text": "英国 LOGN 潘伍德电影节入围；光谷 WH 武汉青年电影展入围。"
+        }
+      ],
+      "gallery": [
+        {
+          "id": "portfolio/p07-02.jpg",
+          "src": "portfolio/p07-02.jpg",
+          "caption": "作品集 · 第 7 页"
+        },
+        {
+          "id": "portfolio/p07-03.jpg",
+          "src": "portfolio/p07-03.jpg",
+          "caption": "作品集 · 第 7 页"
+        },
+        {
+          "id": "portfolio/p07-04.jpg",
+          "src": "portfolio/p07-04.jpg",
+          "caption": "作品集 · 第 7 页"
+        },
+        {
+          "id": "portfolio/p07-05.jpg",
+          "src": "portfolio/p07-05.jpg",
+          "caption": "作品集 · 第 7 页"
+        },
+        {
+          "id": "portfolio/p07-06.jpg",
+          "src": "portfolio/p07-06.jpg",
+          "caption": "作品集 · 第 7 页"
+        }
+      ],
+      "id": "project-01",
+      "category": "文艺短片",
+      "role": "导演 / 制片人",
+      "title": "再度重相逢",
+      "description": "爱情文艺短片。从剧本、团队组建到摄影、灯光与剪辑，参与全流程创作。入围英国 LOGN 潘伍德电影节、光谷 WH 武汉青年电影展。",
+      "videos": [],
+      "subcategory": "",
+      "cover": "portfolio/p07-05.jpg"
+    },
+    {
+      "sections": [
+        {
+          "title": "导演 / 再次创作",
+          "text": "犯罪文艺短片。从剧本与团队搭建出发，在导演创作技巧、摄影技术与现场执行层面展开创作。"
+        },
+        {
+          "title": "影展 / 入围",
+          "text": "南京仙林国际电影节。"
+        }
+      ],
+      "gallery": [
+        {
+          "id": "portfolio/p09-02.jpg",
+          "src": "portfolio/p09-02.jpg",
+          "caption": "作品集 · 第 9 页"
+        },
+        {
+          "id": "portfolio/p09-03.jpg",
+          "src": "portfolio/p09-03.jpg",
+          "caption": "作品集 · 第 9 页"
+        },
+        {
+          "id": "portfolio/p09-04.jpg",
+          "src": "portfolio/p09-04.jpg",
+          "caption": "作品集 · 第 9 页"
+        },
+        {
+          "id": "portfolio/p09-05.jpg",
+          "src": "portfolio/p09-05.jpg",
+          "caption": "作品集 · 第 9 页"
+        }
+      ],
+      "id": "project-02",
+      "category": "文艺短片",
+      "role": "导演 / 制片人",
+      "title": "第四十公里",
+      "description": "犯罪文艺短片。从剧本与团队搭建出发，结合导演创作与摄影技术完成影片。入围南京仙林国际电影节。",
+      "videos": [],
+      "subcategory": "",
+      "cover": "portfolio/p09-04.jpg"
+    },
+    {
+      "sections": [
+        {
+          "title": "摄影 / 持续参与",
+          "text": "作为摄影指导，从前期到后期持续跟进；全程掌机拍摄，并就影片结构、色彩及影调提出建设性意见，与团队共同完善影像表达。"
+        },
+        {
+          "title": "荣誉 / 获奖",
+          "text": "天津微视频大赛二等奖；全国大学生电视艺术节优秀作品奖。"
+        }
+      ],
+      "gallery": [
+        {
+          "id": "portfolio/p06-03.jpg",
+          "src": "portfolio/p06-03.jpg",
+          "caption": "作品集 · 第 6 页"
+        },
+        {
+          "id": "portfolio/p06-04.jpg",
+          "src": "portfolio/p06-04.jpg",
+          "caption": "作品集 · 第 6 页"
+        },
+        {
+          "id": "portfolio/p06-05.jpg",
+          "src": "portfolio/p06-05.jpg",
+          "caption": "作品集 · 第 6 页"
+        }
+      ],
+      "id": "project-03",
+      "category": "文艺短片",
+      "role": "摄影指导",
+      "title": "书店还在",
+      "description": "纪录片。参与前期至后期影像创作，全程掌机拍摄，并就影片结构、色彩与影调提出建议。获天津微视频大赛二等奖、全国大学生电视艺术节优秀作品奖。",
+      "videos": [],
+      "subcategory": "",
+      "cover": "portfolio/p06-03.jpg"
+    },
+    {
+      "sections": [
+        {
+          "title": "项目 / 医疗题材制作",
+          "text": "在四川省医学科技创新研究会、四川大学华西医院牵头的项目中，以执行制片身份主导制作落地。作品集记录：50万元预算内完成73集拍摄，获平台医疗题材短剧热度TOP3。"
+        },
+        {
+          "title": "筹备 / 场景与资源",
+          "text": "梳理12类核心医学场景，协调诊室、模拟中心与场景合规审核。通过错峰与公益合作，将场地成本由12万元降至5万元；协调模拟医疗设备及2名医学顾问驻组。"
+        },
+        {
+          "title": "计划 / 档期与成本",
+          "text": "针对专家碎片化档期，将7天计划拆分为6天主线集中拍摄与1天弹性补拍。提前3天确认场地权限，设置备用场景与道具复用清单。"
+        },
+        {
+          "title": "现场 / 应变与专业",
+          "text": "分设拍摄、道具、休息区，安排场务保障医院秩序。设备突发故障时，15分钟内协调备用设备并调整拍摄顺序；配合医学顾问修正演员动作。作品集记录项目最终节省预算13%、提效20%。"
+        }
+      ],
+      "gallery": [
+        {
+          "id": "portfolio/p18-02.jpg",
+          "src": "portfolio/p18-02.jpg",
+          "caption": "作品集 · 第 18 页"
+        },
+        {
+          "id": "portfolio/p18-03.jpg",
+          "src": "portfolio/p18-03.jpg",
+          "caption": "作品集 · 第 18 页"
+        },
+        {
+          "id": "portfolio/p18-04.jpg",
+          "src": "portfolio/p18-04.jpg",
+          "caption": "作品集 · 第 18 页"
+        },
+        {
+          "id": "portfolio/p18-05.jpg",
+          "src": "portfolio/p18-05.jpg",
+          "caption": "作品集 · 第 18 页"
+        },
+        {
+          "id": "portfolio/p18-06.jpg",
+          "src": "portfolio/p18-06.jpg",
+          "caption": "作品集 · 第 18 页"
+        },
+        {
+          "id": "portfolio/p18-07.jpg",
+          "src": "portfolio/p18-07.jpg",
+          "caption": "作品集 · 第 18 页"
+        },
+        {
+          "id": "portfolio/p18-08.jpg",
+          "src": "portfolio/p18-08.jpg",
+          "caption": "作品集 · 第 18 页"
+        },
+        {
+          "id": "portfolio/p18-09.jpg",
+          "src": "portfolio/p18-09.jpg",
+          "caption": "作品集 · 第 18 页"
+        }
+      ],
+      "id": "project-04",
+      "category": "实拍短剧",
+      "role": "执行制片",
+      "title": "飞刀侠客",
+      "description": "医疗题材短剧。统筹医学场景、拍摄计划、专家档期与现场执行，协调医疗顾问及专业道具，保障拍摄进度与制作专业度。",
+      "videos": [],
+      "subcategory": "",
+      "cover": "portfolio/p18-02.jpg"
+    },
+    {
+      "sections": [
+        {
+          "title": "前期 / 建立年代视觉",
+          "text": "深入拆解剧本并完成动态分镜，建立90年代复古视觉体系，统一色调、服饰与场景。构建关键词库与提示词体系，固定主角及宝物风格，沉淀可复用视觉资产。"
+        },
+        {
+          "title": "中期 / 生成与一致性",
+          "text": "监控AI生图、生视频，筛选符合戏剧氛围的构图和光影；反复调校镜头运动、人物表情与宝物质感，降低生成随机性，保障镜头之间的连贯性。"
+        },
+        {
+          "title": "后期 / 视听整合",
+          "text": "把控剪辑叙事节奏与调色层次，配置环境音、对白及配乐，完成“金瞳”视效与全片完整性检查。作品上线爱奇艺，获绘火工作室“年度优质漫剧大赏”（据提供的简历）。"
+        }
+      ],
+      "gallery": [
+        {
+          "id": "portfolio/p26-02.jpg",
+          "src": "portfolio/p26-02.jpg",
+          "caption": "作品集 · 第 26 页"
+        },
+        {
+          "id": "portfolio/p26-03.jpg",
+          "src": "portfolio/p26-03.jpg",
+          "caption": "作品集 · 第 26 页"
+        },
+        {
+          "id": "portfolio/p26-04.jpg",
+          "src": "portfolio/p26-04.jpg",
+          "caption": "作品集 · 第 26 页"
+        },
+        {
+          "id": "portfolio/p26-05.jpg",
+          "src": "portfolio/p26-05.jpg",
+          "caption": "作品集 · 第 26 页"
+        },
+        {
+          "id": "portfolio/p26-06.jpg",
+          "src": "portfolio/p26-06.jpg",
+          "caption": "作品集 · 第 26 页"
+        },
+        {
+          "id": "portfolio/p26-07.jpg",
+          "src": "portfolio/p26-07.jpg",
+          "caption": "作品集 · 第 26 页"
+        },
+        {
+          "id": "portfolio/p26-08.jpg",
+          "src": "portfolio/p26-08.jpg",
+          "caption": "作品集 · 第 26 页"
+        },
+        {
+          "id": "portfolio/p26-09.jpg",
+          "src": "portfolio/p26-09.jpg",
+          "caption": "作品集 · 第 26 页"
+        },
+        {
+          "id": "portfolio/p26-10.jpg",
+          "src": "portfolio/p26-10.jpg",
+          "caption": "作品集 · 第 26 页"
+        },
+        {
+          "id": "portfolio/p26-11.jpg",
+          "src": "portfolio/p26-11.jpg",
+          "caption": "作品集 · 第 26 页"
+        }
+      ],
+      "id": "project-05",
+      "category": "AI 影像",
+      "role": "AI 导演",
+      "title": "重回90：金瞳鉴宝发家，全家悔不当初",
+      "description": "围绕复仇与大男主题材，负责剧本拆解、动态分镜与90年代复古视觉体系建立；统筹人物及场景资产、AI生图与视频质量，并把控剪辑、调色、声音与特效交付。",
+      "videos": [],
+      "subcategory": "项目档案",
+      "cover": "portfolio/p26-02.jpg"
+    },
+    {
+      "sections": [
+        {
+          "title": "前期 / IP解读",
+          "text": "解读原著与剧本，提炼炮灰觉醒、复仇逆袭等核心叙事及人物特征，明确改编方向和视觉风格。"
+        },
+        {
+          "title": "中期 / 分镜与生成",
+          "text": "设计动态分镜与高潮镜头，通过提示词固定人物面容、统一场景光影，监控人物表情、动作流畅度与特效质感。"
+        },
+        {
+          "title": "后期 / 成片审核",
+          "text": "以剪辑强化叙事节奏，完成特效与声音整合，审核IP还原度、人设与视听品质。提供的作品集中标注为待发布，当前发行状态待更新。"
+        }
+      ],
+      "gallery": [
+        {
+          "id": "portfolio/p27-02.jpg",
+          "src": "portfolio/p27-02.jpg",
+          "caption": "作品集 · 第 27 页"
+        },
+        {
+          "id": "portfolio/p27-03.jpg",
+          "src": "portfolio/p27-03.jpg",
+          "caption": "作品集 · 第 27 页"
+        },
+        {
+          "id": "portfolio/p28-02.jpg",
+          "src": "portfolio/p28-02.jpg",
+          "caption": "作品集 · 第 28 页"
+        },
+        {
+          "id": "portfolio/p28-03.jpg",
+          "src": "portfolio/p28-03.jpg",
+          "caption": "作品集 · 第 28 页"
+        },
+        {
+          "id": "portfolio/p28-04.jpg",
+          "src": "portfolio/p28-04.jpg",
+          "caption": "作品集 · 第 28 页"
+        },
+        {
+          "id": "portfolio/p28-05.jpg",
+          "src": "portfolio/p28-05.jpg",
+          "caption": "作品集 · 第 28 页"
+        },
+        {
+          "id": "portfolio/p28-06.jpg",
+          "src": "portfolio/p28-06.jpg",
+          "caption": "作品集 · 第 28 页"
+        },
+        {
+          "id": "portfolio/p28-07.jpg",
+          "src": "portfolio/p28-07.jpg",
+          "caption": "作品集 · 第 28 页"
+        },
+        {
+          "id": "portfolio/p28-08.jpg",
+          "src": "portfolio/p28-08.jpg",
+          "caption": "作品集 · 第 28 页"
+        },
+        {
+          "id": "portfolio/p28-09.jpg",
+          "src": "portfolio/p28-09.jpg",
+          "caption": "作品集 · 第 28 页"
+        },
+        {
+          "id": "portfolio/p28-10.jpg",
+          "src": "portfolio/p28-10.jpg",
+          "caption": "作品集 · 第 28 页"
+        },
+        {
+          "id": "portfolio/p28-11.jpg",
+          "src": "portfolio/p28-11.jpg",
+          "caption": "作品集 · 第 28 页"
+        }
+      ],
+      "id": "project-06",
+      "category": "AI 影像",
+      "role": "AI 导演",
+      "title": "病从梦中惊坐起，炮灰竟是我自己",
+      "description": "修仙、复仇题材 IP 改编项目。负责剧本与角色解读、动态分镜、提示词体系、人物及场景一致性控制，并把控后期节奏与视听品质。",
+      "videos": [],
+      "subcategory": "项目档案",
+      "cover": "portfolio/p27-02.jpg"
+    },
+    {
+      "sections": [
+        {
+          "title": "职责 / 制片与执行导演",
+          "text": "2023年11月至12月，负责协助导演进行现场调度，执行镜头创意，协调现场各部门统筹安排。"
+        }
+      ],
+      "gallery": [
+        {
+          "id": "portfolio/p13-00.jpg",
+          "src": "portfolio/p13-00.jpg",
+          "caption": "作品集 · 第 13 页"
+        },
+        {
+          "id": "portfolio/p13-01.jpg",
+          "src": "portfolio/p13-01.jpg",
+          "caption": "作品集 · 第 13 页"
+        },
+        {
+          "id": "portfolio/p13-02.jpg",
+          "src": "portfolio/p13-02.jpg",
+          "caption": "作品集 · 第 13 页"
+        },
+        {
+          "id": "portfolio/p13-03.jpg",
+          "src": "portfolio/p13-03.jpg",
+          "caption": "作品集 · 第 13 页"
+        },
+        {
+          "id": "portfolio/p13-04.jpg",
+          "src": "portfolio/p13-04.jpg",
+          "caption": "作品集 · 第 13 页"
+        },
+        {
+          "id": "portfolio/p13-05.jpg",
+          "src": "portfolio/p13-05.jpg",
+          "caption": "作品集 · 第 13 页"
+        }
+      ],
+      "id": "project-07",
+      "category": "商业影像",
+      "role": "制片人 / 执行导演",
+      "title": "LENOVO YOGA 咖啡机 TVC",
+      "description": "负责现场调度与跨部门统筹，协助导演实现镜头创意，协调拍摄执行与现场制作。",
+      "videos": [],
+      "subcategory": "",
+      "cover": "portfolio/p13-00.jpg"
+    },
+    {
+      "sections": [
+        {
+          "title": "制片 / 连接创作与执行",
+          "text": "向上对接导演与制片人，向下协调演员、工作人员组建、剧组通勤、住宿与饮食等事务，确保现实主义文艺短片的拍摄落地。"
+        },
+        {
+          "title": "影展 / 入围",
+          "text": "第18届 FIRST 青年电影展 FIRST PIONEER 先锋创作单元。"
+        }
+      ],
+      "gallery": [
+        {
+          "id": "portfolio/p08-02.jpg",
+          "src": "portfolio/p08-02.jpg",
+          "caption": "作品集 · 第 8 页"
+        },
+        {
+          "id": "portfolio/p08-03.jpg",
+          "src": "portfolio/p08-03.jpg",
+          "caption": "作品集 · 第 8 页"
+        },
+        {
+          "id": "portfolio/p08-04.jpg",
+          "src": "portfolio/p08-04.jpg",
+          "caption": "作品集 · 第 8 页"
+        }
+      ],
+      "id": "project-08",
+      "category": "文艺短片",
+      "role": "执行制片",
+      "title": "六点前",
+      "description": "现实主义文艺短片。负责导演与制片人对接、演员协调、工作人员组建及剧组通勤与生活统筹。入围第18届 FIRST 青年电影展 FIRST PIONEER 先锋创作单元。",
+      "videos": [],
+      "subcategory": "",
+      "cover": "portfolio/p08-04.jpg"
+    },
+    {
+      "sections": [
+        {
+          "title": "职责 / AI全流程",
+          "text": "参与公司承制的AI动态漫剧，从剧本解读、视觉化拆解到动态分镜、素材生成审核与成片交付。"
+        },
+        {
+          "title": "项目表现 / 资料记录",
+          "text": "据最新讲师海报：红果上线三天热度破5500万，收藏12.1万。"
+        }
+      ],
+      "gallery": [],
+      "id": "project-09",
+      "category": "AI 影像",
+      "role": "AI 导演",
+      "title": "末世降临",
+      "description": "参与 AI 动态漫剧全流程制作，覆盖剧本视觉化拆解、分镜设计、AI 影像生成监制及成片交付。",
+      "videos": [],
+      "subcategory": "项目档案",
+      "cover": null
+    },
+    {
+      "sections": [
+        {
+          "title": "前期 / 合作与方案",
+          "text": "与“刚刚好影视”合作真人AI短剧推文，接收网文IP或原创剧本，明确剧目风格、受众及平台策略；筛选人物资产并规划场景、道具与视频生成。"
+        },
+        {
+          "title": "制作 / 分阶段交付",
+          "text": "导演负责AI全流程素材制作，按节点交付粗剪和精剪，依据反馈完成竖屏成片。统筹提示词体系、人物表现、光影氛围与素材衔接。"
+        },
+        {
+          "title": "后期 / 品控与表现",
+          "text": "据最新讲师海报：全平台播放量破2亿。"
+        }
+      ],
+      "gallery": [],
+      "id": "project-10",
+      "category": "AI 影像",
+      "role": "AI 导演",
+      "title": "再世不救",
+      "description": "真人 AI 短剧推文项目。参与人物、场景、道具及视频资产生成，统筹阶段性审核、剪辑节奏、声音与视觉效果交付。",
+      "videos": [],
+      "subcategory": "项目档案",
+      "cover": null
+    },
+    {
+      "sections": [
+        {
+          "title": "外联 / 让场景落地",
+          "text": "3天内筛选并实地勘查8处备选场地，覆盖样板间、私宅与民宿，匹配导演创作需求。通过保险、现场维护与影像合作方案，推进低成本场地合作。"
+        },
+        {
+          "title": "置景 / 空间改造",
+          "text": "联动美术及道具团队，利用建筑绿网、木托盘、铁桶等物料，48小时内将空置厂房改造为破败仓库；以石膏粉、涂鸦和灯光强化氛围，作品集记录总成本控制在1000元以内。"
+        }
+      ],
+      "gallery": [
+        {
+          "id": "portfolio/p19-02.jpg",
+          "src": "portfolio/p19-02.jpg",
+          "caption": "作品集 · 第 19 页"
+        },
+        {
+          "id": "portfolio/p19-03.jpg",
+          "src": "portfolio/p19-03.jpg",
+          "caption": "作品集 · 第 19 页"
+        },
+        {
+          "id": "portfolio/p19-04.jpg",
+          "src": "portfolio/p19-04.jpg",
+          "caption": "作品集 · 第 19 页"
+        },
+        {
+          "id": "portfolio/p19-05.jpg",
+          "src": "portfolio/p19-05.jpg",
+          "caption": "作品集 · 第 19 页"
+        },
+        {
+          "id": "portfolio/p19-06.jpg",
+          "src": "portfolio/p19-06.jpg",
+          "caption": "作品集 · 第 19 页"
+        },
+        {
+          "id": "portfolio/p19-07.jpg",
+          "src": "portfolio/p19-07.jpg",
+          "caption": "作品集 · 第 19 页"
+        }
+      ],
+      "id": "project-11",
+      "category": "实拍短剧",
+      "role": "外联制片",
+      "title": "我的老婆是双胞胎",
+      "description": "负责场地筛选、实地勘景与合作洽谈，联动美术和道具团队完成低成本场景改造，为剧本创意提供落地保障。",
+      "videos": [],
+      "subcategory": "",
+      "cover": "portfolio/p19-02.jpg"
+    },
+    {
+      "sections": [
+        {
+          "title": "现场 / 秩序与进度",
+          "text": "每日开工前明确场务、安保和车辆职责，协调公共区域车辆动线、临时隔离与围观人群，保证画面与拍摄连贯性。"
+        },
+        {
+          "title": "应变 / 天气与团队",
+          "text": "提前建立A/B拍摄计划，酷暑时将外景集中到早晚，午间转为室内拍摄。面对人员突发身体不适，协调现场医护与就医安排，兼顾团队安全与拍摄进度。"
+        }
+      ],
+      "gallery": [
+        {
+          "id": "portfolio/p20-02.jpg",
+          "src": "portfolio/p20-02.jpg",
+          "caption": "作品集 · 第 20 页"
+        },
+        {
+          "id": "portfolio/p20-03.jpg",
+          "src": "portfolio/p20-03.jpg",
+          "caption": "作品集 · 第 20 页"
+        },
+        {
+          "id": "portfolio/p20-04.jpg",
+          "src": "portfolio/p20-04.jpg",
+          "caption": "作品集 · 第 20 页"
+        },
+        {
+          "id": "portfolio/p20-05.jpg",
+          "src": "portfolio/p20-05.jpg",
+          "caption": "作品集 · 第 20 页"
+        }
+      ],
+      "id": "project-12",
+      "category": "实拍短剧",
+      "role": "现场制片",
+      "title": "穿书归来，男配不再当",
+      "description": "负责每日拍摄计划执行、外景秩序、车辆动线及跨部门协作，根据天气变化调整拍摄安排，并处理现场突发情况。",
+      "videos": [],
+      "subcategory": "",
+      "cover": "portfolio/p20-02.jpg"
+    },
+    {
+      "sections": [
+        {
+          "title": "前期 / 视觉连续性",
+          "text": "与外联制片、美术共同勘景，从机位、光线与转场动线预判可拍摄性；逐日核对服化道，区分人物不同阶段的服装材质、妆容及道具状态。"
+        },
+        {
+          "title": "现场 / 表演与调度",
+          "text": "将导演宏观方向转化为可操作的表演指令；预演演员走位，联动摄影确认焦点、景别与运动轨迹，协调场务和化妆，保障拍摄动态推进。"
+        }
+      ],
+      "gallery": [
+        {
+          "id": "portfolio/p21-02.jpg",
+          "src": "portfolio/p21-02.jpg",
+          "caption": "作品集 · 第 21 页"
+        },
+        {
+          "id": "portfolio/p21-03.jpg",
+          "src": "portfolio/p21-03.jpg",
+          "caption": "作品集 · 第 21 页"
+        },
+        {
+          "id": "portfolio/p21-04.jpg",
+          "src": "portfolio/p21-04.jpg",
+          "caption": "作品集 · 第 21 页"
+        },
+        {
+          "id": "portfolio/p21-05.jpg",
+          "src": "portfolio/p21-05.jpg",
+          "caption": "作品集 · 第 21 页"
+        },
+        {
+          "id": "portfolio/p21-06.jpg",
+          "src": "portfolio/p21-06.jpg",
+          "caption": "作品集 · 第 21 页"
+        }
+      ],
+      "id": "project-13",
+      "category": "实拍短剧",
+      "role": "执行导演",
+      "title": "掐指一算，人生上上签",
+      "description": "参与勘景、服化道连续性核对、演员说戏及走位预演，联动摄影与场务部门，将导演的创作方向转化为具体执行。",
+      "videos": [],
+      "subcategory": "",
+      "cover": "portfolio/p21-02.jpg"
+    },
+    {
+      "sections": [
+        {
+          "title": "摄影 / 纪实现场",
+          "text": "2021—2022年参与新华社（天津）分社“做一天同事”系列纪录片拍摄。作品在新华社客户端、B站等渠道传播，作品集记录播放量超过20万。"
+        }
+      ],
+      "gallery": [
+        {
+          "id": "portfolio/p11-02.jpg",
+          "src": "portfolio/p11-02.jpg",
+          "caption": "作品集 · 第 11 页"
+        },
+        {
+          "id": "portfolio/p11-03.jpg",
+          "src": "portfolio/p11-03.jpg",
+          "caption": "作品集 · 第 11 页"
+        },
+        {
+          "id": "portfolio/p11-04.jpg",
+          "src": "portfolio/p11-04.jpg",
+          "caption": "作品集 · 第 11 页"
+        },
+        {
+          "id": "portfolio/p11-05.jpg",
+          "src": "portfolio/p11-05.jpg",
+          "caption": "作品集 · 第 11 页"
+        }
+      ],
+      "id": "project-14",
+      "category": "商业影像",
+      "role": "摄影",
+      "title": "做一天同事",
+      "description": "新华社（天津）分社系列纪录片拍摄项目，以摄影参与人物与日常工作场景记录。",
+      "videos": [],
+      "subcategory": "",
+      "cover": "portfolio/p11-02.jpg"
+    },
+    {
+      "sections": [
+        {
+          "title": "荣誉",
+          "text": "中国青年报校园媒体优秀创作奖。具体个人工种将在补充资料后完善。"
+        }
+      ],
+      "gallery": [],
+      "id": "project-15",
+      "category": "文艺短片",
+      "role": "纪录片",
+      "title": "蛤蟆吐蜜",
+      "description": "纪录片创作项目，获中国青年报校园媒体优秀创作奖。",
+      "videos": [],
+      "subcategory": "",
+      "cover": null
+    },
+    {
+      "sections": [
+        {
+          "title": "项目",
+          "text": "天津师范大学经济学院20周年院庆宣传片。具体个人工种及影片将随视频资料补充。"
+        }
+      ],
+      "gallery": [
+        {
+          "id": "portfolio/p12-02.jpg",
+          "src": "portfolio/p12-02.jpg",
+          "caption": "作品集 · 第 12 页"
+        },
+        {
+          "id": "portfolio/p12-03.jpg",
+          "src": "portfolio/p12-03.jpg",
+          "caption": "作品集 · 第 12 页"
+        },
+        {
+          "id": "portfolio/p12-04.jpg",
+          "src": "portfolio/p12-04.jpg",
+          "caption": "作品集 · 第 12 页"
+        },
+        {
+          "id": "portfolio/p12-05.jpg",
+          "src": "portfolio/p12-05.jpg",
+          "caption": "作品集 · 第 12 页"
+        },
+        {
+          "id": "portfolio/p12-06.jpg",
+          "src": "portfolio/p12-06.jpg",
+          "caption": "作品集 · 第 12 页"
+        }
+      ],
+      "id": "project-16",
+      "category": "商业影像",
+      "role": "宣传片",
+      "title": "天津师范大学经济学院20周年院庆宣传片",
+      "description": "高校院庆宣传片拍摄项目。",
+      "videos": [],
+      "subcategory": "",
+      "cover": "portfolio/p12-02.jpg"
+    },
+    {
+      "sections": [
+        {
+          "title": "活动拍摄",
+          "text": "2024北京朝阳·波尔多红酒节、龙梅子“都说”巡回演唱会、北京半程马拉松、岳阳农业集团相关拍摄。"
+        },
+        {
+          "title": "综艺制作",
+          "text": "“DR.FUN的游戏”大学生自制综艺及天津电视台“小津门少年行”综艺节目，担任统筹制片。"
+        }
+      ],
+      "gallery": [
+        {
+          "id": "portfolio/p14-00.jpg",
+          "src": "portfolio/p14-00.jpg",
+          "caption": "作品集 · 第 14 页"
+        },
+        {
+          "id": "portfolio/p14-01.jpg",
+          "src": "portfolio/p14-01.jpg",
+          "caption": "作品集 · 第 14 页"
+        },
+        {
+          "id": "portfolio/p14-03.jpg",
+          "src": "portfolio/p14-03.jpg",
+          "caption": "作品集 · 第 14 页"
+        },
+        {
+          "id": "portfolio/p14-04.jpg",
+          "src": "portfolio/p14-04.jpg",
+          "caption": "作品集 · 第 14 页"
+        },
+        {
+          "id": "portfolio/p15-02.jpg",
+          "src": "portfolio/p15-02.jpg",
+          "caption": "作品集 · 第 15 页"
+        },
+        {
+          "id": "portfolio/p15-03.jpg",
+          "src": "portfolio/p15-03.jpg",
+          "caption": "作品集 · 第 15 页"
+        },
+        {
+          "id": "portfolio/p15-04.jpg",
+          "src": "portfolio/p15-04.jpg",
+          "caption": "作品集 · 第 15 页"
+        },
+        {
+          "id": "portfolio/p15-05.jpg",
+          "src": "portfolio/p15-05.jpg",
+          "caption": "作品集 · 第 15 页"
+        },
+        {
+          "id": "portfolio/p15-06.jpg",
+          "src": "portfolio/p15-06.jpg",
+          "caption": "作品集 · 第 15 页"
+        }
+      ],
+      "id": "project-17",
+      "category": "商业影像",
+      "role": "活动摄影 / 统筹制片",
+      "title": "商业活动与综艺",
+      "description": "商业活动影像与综艺节目制作经历。",
+      "videos": [],
+      "subcategory": "",
+      "cover": "portfolio/p14-00.jpg"
+    },
+    {
+      "sections": [],
+      "id": "project-18",
+      "category": "实拍短剧",
+      "role": "项目集",
+      "title": "实拍短剧项目集",
+      "description": "参与40余部实拍短剧制作，覆盖都市情感、悬疑推理、古装甜宠等题材。以下为作品集中的项目现场与成果记录。",
+      "gallery": [
+        {
+          "id": "portfolio/p17-02.jpg",
+          "src": "portfolio/p17-02.jpg",
+          "caption": "作品集 · 第 17 页"
+        },
+        {
+          "id": "portfolio/p17-03.jpg",
+          "src": "portfolio/p17-03.jpg",
+          "caption": "作品集 · 第 17 页"
+        },
+        {
+          "id": "portfolio/p17-04.jpg",
+          "src": "portfolio/p17-04.jpg",
+          "caption": "作品集 · 第 17 页"
+        },
+        {
+          "id": "portfolio/p17-05.jpg",
+          "src": "portfolio/p17-05.jpg",
+          "caption": "作品集 · 第 17 页"
+        },
+        {
+          "id": "portfolio/p17-06.jpg",
+          "src": "portfolio/p17-06.jpg",
+          "caption": "作品集 · 第 17 页"
+        },
+        {
+          "id": "portfolio/p17-07.jpg",
+          "src": "portfolio/p17-07.jpg",
+          "caption": "作品集 · 第 17 页"
+        },
+        {
+          "id": "portfolio/p17-08.jpg",
+          "src": "portfolio/p17-08.jpg",
+          "caption": "作品集 · 第 17 页"
+        },
+        {
+          "id": "portfolio/p17-09.jpg",
+          "src": "portfolio/p17-09.jpg",
+          "caption": "作品集 · 第 17 页"
+        },
+        {
+          "id": "portfolio/p17-10.jpg",
+          "src": "portfolio/p17-10.jpg",
+          "caption": "作品集 · 第 17 页"
+        },
+        {
+          "id": "portfolio/p17-11.jpg",
+          "src": "portfolio/p17-11.jpg",
+          "caption": "作品集 · 第 17 页"
+        },
+        {
+          "id": "portfolio/p17-12.jpg",
+          "src": "portfolio/p17-12.jpg",
+          "caption": "作品集 · 第 17 页"
+        }
+      ],
+      "videos": [],
+      "subcategory": "",
+      "cover": "portfolio/p17-02.jpg"
+    },
+    {
+      "sections": [],
+      "id": "project-19",
+      "category": "AI 影像",
+      "role": "项目集",
+      "title": "AI 漫剧项目集",
+      "description": "从影视视听语言出发，贯通剧本拆解、动态分镜、人物场景资产、AI生成与后期交付。",
+      "gallery": [
+        {
+          "id": "portfolio/p24-02.jpg",
+          "src": "portfolio/p24-02.jpg",
+          "caption": "作品集 · 第 24 页"
+        },
+        {
+          "id": "portfolio/p24-03.jpg",
+          "src": "portfolio/p24-03.jpg",
+          "caption": "作品集 · 第 24 页"
+        },
+        {
+          "id": "portfolio/p24-04.jpg",
+          "src": "portfolio/p24-04.jpg",
+          "caption": "作品集 · 第 24 页"
+        },
+        {
+          "id": "portfolio/p24-05.jpg",
+          "src": "portfolio/p24-05.jpg",
+          "caption": "作品集 · 第 24 页"
+        }
+      ],
+      "videos": [],
+      "subcategory": "项目档案",
+      "cover": "portfolio/p24-02.jpg"
+    },
+    {
+      "sections": [],
+      "id": "project-20",
+      "category": "AI 影像",
+      "role": "项目集",
+      "title": "真人 AI 短剧项目集",
+      "description": "与刚刚好影视合作真人 AI 短剧推文，作品集记录了项目海报与制作交付截图。",
+      "gallery": [
+        {
+          "id": "portfolio/p30-03.jpg",
+          "src": "portfolio/p30-03.jpg",
+          "caption": "作品集 · 第 30 页"
+        },
+        {
+          "id": "portfolio/p30-04.jpg",
+          "src": "portfolio/p30-04.jpg",
+          "caption": "作品集 · 第 30 页"
+        },
+        {
+          "id": "portfolio/p30-05.jpg",
+          "src": "portfolio/p30-05.jpg",
+          "caption": "作品集 · 第 30 页"
+        },
+        {
+          "id": "portfolio/p30-06.jpg",
+          "src": "portfolio/p30-06.jpg",
+          "caption": "作品集 · 第 30 页"
+        },
+        {
+          "id": "portfolio/p30-07.jpg",
+          "src": "portfolio/p30-07.jpg",
+          "caption": "作品集 · 第 30 页"
+        },
+        {
+          "id": "portfolio/p30-08.jpg",
+          "src": "portfolio/p30-08.jpg",
+          "caption": "作品集 · 第 30 页"
+        },
+        {
+          "id": "portfolio/p30-09.jpg",
+          "src": "portfolio/p30-09.jpg",
+          "caption": "作品集 · 第 30 页"
+        },
+        {
+          "id": "portfolio/p31-02.jpg",
+          "src": "portfolio/p31-02.jpg",
+          "caption": "作品集 · 第 31 页"
+        },
+        {
+          "id": "portfolio/p31-03.jpg",
+          "src": "portfolio/p31-03.jpg",
+          "caption": "作品集 · 第 31 页"
+        },
+        {
+          "id": "portfolio/p31-04.jpg",
+          "src": "portfolio/p31-04.jpg",
+          "caption": "作品集 · 第 31 页"
+        },
+        {
+          "id": "portfolio/p31-05.jpg",
+          "src": "portfolio/p31-05.jpg",
+          "caption": "作品集 · 第 31 页"
+        },
+        {
+          "id": "portfolio/p31-06.jpg",
+          "src": "portfolio/p31-06.jpg",
+          "caption": "作品集 · 第 31 页"
+        },
+        {
+          "id": "portfolio/p31-07.jpg",
+          "src": "portfolio/p31-07.jpg",
+          "caption": "作品集 · 第 31 页"
+        }
+      ],
+      "videos": [],
+      "subcategory": "项目档案",
+      "cover": "portfolio/p30-03.jpg"
+    },
+    {
+      "id": "ai-01",
+      "title": "Form Funk test",
+      "category": "AI 影像",
+      "subcategory": "宣传片 / 广告",
+      "role": "AI 影像作品",
+      "description": "",
+      "sections": [],
+      "gallery": [],
+      "cover": "media/ai-01.jpg",
+      "videos": [
+        {
+          "id": "ai-01",
+          "title": "Form Funk test",
+          "src": "media/ai-01.mp4",
+          "poster": "media/ai-01.jpg"
+        }
+      ],
+      "aspect": "portrait"
+    },
+    {
+      "id": "ai-02",
+      "title": "中国人寿 最终版 带ai水印",
+      "category": "AI 影像",
+      "subcategory": "宣传片 / 广告",
+      "role": "AI 影像作品",
+      "description": "",
+      "sections": [],
+      "gallery": [],
+      "cover": "media/ai-02.jpg",
+      "videos": [
+        {
+          "id": "ai-02",
+          "title": "中国人寿 最终版 带ai水印",
+          "src": "media/ai-02.mp4",
+          "poster": "media/ai-02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ai-03",
+      "title": "酒店test demo",
+      "category": "AI 影像",
+      "subcategory": "宣传片 / 广告",
+      "role": "AI 影像作品",
+      "description": "",
+      "sections": [],
+      "gallery": [],
+      "cover": "media/ai-03.jpg",
+      "videos": [
+        {
+          "id": "ai-03",
+          "title": "酒店test demo",
+          "src": "media/ai-03.mp4",
+          "poster": "media/ai-03.jpg"
+        }
+      ],
+      "aspect": "portrait"
+    },
+    {
+      "id": "ai-04",
+      "title": "阿尔兹海默项目成片",
+      "category": "AI 影像",
+      "subcategory": "宣传片 / 广告",
+      "role": "AI 影像作品",
+      "description": "",
+      "sections": [],
+      "gallery": [],
+      "cover": "media/ai-04.jpg",
+      "videos": [
+        {
+          "id": "ai-04",
+          "title": "阿尔兹海默项目成片",
+          "src": "media/ai-04.mp4",
+          "poster": "media/ai-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ai-05",
+      "title": "01足球",
+      "category": "AI 影像",
+      "subcategory": "横屏精品",
+      "role": "AI 影像作品",
+      "description": "",
+      "sections": [],
+      "gallery": [],
+      "cover": "media/ai-05.jpg",
+      "videos": [
+        {
+          "id": "ai-05",
+          "title": "01足球",
+          "src": "media/ai-05.mp4",
+          "poster": "media/ai-05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ai-06",
+      "title": "中年翻身",
+      "category": "AI 影像",
+      "subcategory": "横屏精品",
+      "role": "AI 影像作品",
+      "description": "",
+      "sections": [],
+      "gallery": [],
+      "cover": "media/ai-06.jpg",
+      "videos": [
+        {
+          "id": "ai-06",
+          "title": "中年翻身",
+          "src": "media/ai-06.mp4",
+          "poster": "media/ai-06.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ai-07",
+      "title": "九枝灯",
+      "category": "AI 影像",
+      "subcategory": "横屏精品",
+      "role": "AI 影像作品",
+      "description": "",
+      "sections": [],
+      "gallery": [],
+      "cover": "media/ai-07.jpg",
+      "videos": [
+        {
+          "id": "ai-07",
+          "title": "九枝灯",
+          "src": "media/ai-07.mp4",
+          "poster": "media/ai-07.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ai-08",
+      "title": "医心错嫁完",
+      "category": "AI 影像",
+      "subcategory": "横屏精品",
+      "role": "AI 影像作品",
+      "description": "",
+      "sections": [],
+      "gallery": [],
+      "cover": "media/ai-08.jpg",
+      "videos": [
+        {
+          "id": "ai-08",
+          "title": "医心错嫁完",
+          "src": "media/ai-08.mp4",
+          "poster": "media/ai-08.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ai-09",
+      "title": "守你一世长安修改03",
+      "category": "AI 影像",
+      "subcategory": "横屏精品",
+      "role": "AI 影像作品",
+      "description": "",
+      "sections": [],
+      "gallery": [],
+      "cover": "media/ai-09.jpg",
+      "videos": [
+        {
+          "id": "ai-09",
+          "title": "守你一世长安修改03",
+          "src": "media/ai-09.mp4",
+          "poster": "media/ai-09.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ai-10",
+      "title": "左爸右妈",
+      "category": "AI 影像",
+      "subcategory": "横屏精品",
+      "role": "AI 影像作品",
+      "description": "",
+      "sections": [],
+      "gallery": [],
+      "cover": "media/ai-10.jpg",
+      "videos": [
+        {
+          "id": "ai-10",
+          "title": "左爸右妈",
+          "src": "media/ai-10.mp4",
+          "poster": "media/ai-10.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ai-11",
+      "title": "蛊心 EP01",
+      "category": "AI 影像",
+      "subcategory": "横屏精品",
+      "role": "AI 影像作品",
+      "description": "",
+      "sections": [],
+      "gallery": [],
+      "cover": "media/ai-11.jpg",
+      "videos": [
+        {
+          "id": "ai-11",
+          "title": "蛊心 EP01",
+          "src": "media/ai-11.mp4",
+          "poster": "media/ai-11.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ai-12",
+      "title": "01死狱归来修改08",
+      "category": "AI 影像",
+      "subcategory": "国内竖屏短剧",
+      "role": "AI 影像作品",
+      "description": "",
+      "sections": [],
+      "gallery": [],
+      "cover": "media/ai-12.jpg",
+      "videos": [
+        {
+          "id": "ai-12",
+          "title": "01死狱归来修改08",
+          "src": "media/ai-12.mp4",
+          "poster": "media/ai-12.jpg"
+        }
+      ],
+      "aspect": "portrait"
+    },
+    {
+      "id": "ai-13",
+      "title": "09一拳超神全1",
+      "category": "AI 影像",
+      "subcategory": "国内竖屏短剧",
+      "role": "AI 影像作品",
+      "description": "",
+      "sections": [],
+      "gallery": [],
+      "cover": "media/ai-13.jpg",
+      "videos": [
+        {
+          "id": "ai-13",
+          "title": "09一拳超神全1",
+          "src": "media/ai-13.mp4",
+          "poster": "media/ai-13.jpg"
+        }
+      ],
+      "aspect": "portrait"
+    },
+    {
+      "id": "ai-14",
+      "title": "一拳超神EP01",
+      "category": "AI 影像",
+      "subcategory": "国内竖屏短剧",
+      "role": "AI 影像作品",
+      "description": "",
+      "sections": [],
+      "gallery": [],
+      "cover": "media/ai-14.jpg",
+      "videos": [
+        {
+          "id": "ai-14",
+          "title": "一拳超神EP01",
+          "src": "media/ai-14.mp4",
+          "poster": "media/ai-14.jpg"
+        }
+      ],
+      "aspect": "portrait"
+    },
+    {
+      "id": "ai-15",
+      "title": "大楚第一商",
+      "category": "AI 影像",
+      "subcategory": "国内竖屏短剧",
+      "role": "AI 影像作品",
+      "description": "",
+      "sections": [],
+      "gallery": [],
+      "cover": "media/ai-15.jpg",
+      "videos": [
+        {
+          "id": "ai-15",
+          "title": "大楚第一商",
+          "src": "media/ai-15.mp4",
+          "poster": "media/ai-15.jpg"
+        }
+      ],
+      "aspect": "portrait"
+    },
+    {
+      "id": "ai-16",
+      "title": "01新婚之夜试稿 v1",
+      "category": "AI 影像",
+      "subcategory": "海外竖屏短剧",
+      "role": "AI 影像作品",
+      "description": "",
+      "sections": [],
+      "gallery": [],
+      "cover": "media/ai-16.jpg",
+      "videos": [
+        {
+          "id": "ai-16",
+          "title": "01新婚之夜试稿 v1",
+          "src": "media/ai-16.mp4",
+          "poster": "media/ai-16.jpg"
+        }
+      ],
+      "aspect": "portrait"
+    },
+    {
+      "id": "ai-17",
+      "title": "1",
+      "category": "AI 影像",
+      "subcategory": "海外竖屏短剧",
+      "role": "AI 影像作品",
+      "description": "",
+      "sections": [],
+      "gallery": [],
+      "cover": "media/ai-17.jpg",
+      "videos": [
+        {
+          "id": "ai-17",
+          "title": "1",
+          "src": "media/ai-17.mp4",
+          "poster": "media/ai-17.jpg"
+        }
+      ],
+      "aspect": "portrait"
+    },
+    {
+      "id": "ai-18",
+      "title": "2",
+      "category": "AI 影像",
+      "subcategory": "海外竖屏短剧",
+      "role": "AI 影像作品",
+      "description": "",
+      "sections": [],
+      "gallery": [],
+      "cover": "media/ai-18.jpg",
+      "videos": [
+        {
+          "id": "ai-18",
+          "title": "2",
+          "src": "media/ai-18.mp4",
+          "poster": "media/ai-18.jpg"
+        }
+      ],
+      "aspect": "portrait"
+    },
+    {
+      "id": "ai-19",
+      "title": "7",
+      "category": "AI 影像",
+      "subcategory": "海外竖屏短剧",
+      "role": "AI 影像作品",
+      "description": "",
+      "sections": [],
+      "gallery": [],
+      "cover": "media/ai-19.jpg",
+      "videos": [
+        {
+          "id": "ai-19",
+          "title": "7",
+          "src": "media/ai-19.mp4",
+          "poster": "media/ai-19.jpg"
+        }
+      ],
+      "aspect": "portrait"
+    },
+    {
+      "id": "ai-20",
+      "title": "DZ-神话狼人",
+      "category": "AI 影像",
+      "subcategory": "海外竖屏短剧",
+      "role": "AI 影像作品",
+      "description": "",
+      "sections": [],
+      "gallery": [],
+      "cover": "media/ai-20.jpg",
+      "videos": [
+        {
+          "id": "ai-20",
+          "title": "DZ-神话狼人",
+          "src": "media/ai-20.mp4",
+          "poster": "media/ai-20.jpg"
+        }
+      ],
+      "aspect": "portrait"
+    },
+    {
+      "id": "ai-21",
+      "title": "北欧",
+      "category": "AI 影像",
+      "subcategory": "海外竖屏短剧",
+      "role": "AI 影像作品",
+      "description": "",
+      "sections": [],
+      "gallery": [],
+      "cover": "media/ai-21.jpg",
+      "videos": [
+        {
+          "id": "ai-21",
+          "title": "北欧",
+          "src": "media/ai-21.mp4",
+          "poster": "media/ai-21.jpg"
+        }
+      ],
+      "aspect": "portrait"
+    },
+    {
+      "id": "ai-22",
+      "title": "枫叶试稿成片",
+      "category": "AI 影像",
+      "subcategory": "海外竖屏短剧",
+      "role": "AI 影像作品",
+      "description": "",
+      "sections": [],
+      "gallery": [],
+      "cover": "media/ai-22.jpg",
+      "videos": [
+        {
+          "id": "ai-22",
+          "title": "枫叶试稿成片",
+          "src": "media/ai-22.mp4",
+          "poster": "media/ai-22.jpg"
+        }
+      ],
+      "aspect": "portrait"
+    },
+    {
+      "id": "ai-23",
+      "title": "男同最新",
+      "category": "AI 影像",
+      "subcategory": "海外竖屏短剧",
+      "role": "AI 影像作品",
+      "description": "",
+      "sections": [],
+      "gallery": [],
+      "cover": "media/ai-23.jpg",
+      "videos": [
+        {
+          "id": "ai-23",
+          "title": "男同最新",
+          "src": "media/ai-23.mp4",
+          "poster": "media/ai-23.jpg"
+        }
+      ],
+      "aspect": "portrait"
+    },
+    {
+      "id": "ai-24",
+      "title": "神话狼人",
+      "category": "AI 影像",
+      "subcategory": "海外竖屏短剧",
+      "role": "AI 影像作品",
+      "description": "",
+      "sections": [],
+      "gallery": [],
+      "cover": "media/ai-24.jpg",
+      "videos": [
+        {
+          "id": "ai-24",
+          "title": "神话狼人",
+          "src": "media/ai-24.mp4",
+          "poster": "media/ai-24.jpg"
+        }
+      ],
+      "aspect": "portrait"
+    },
+    {
+      "id": "ai-25",
+      "title": "转正后一炮三胎",
+      "category": "AI 影像",
+      "subcategory": "海外竖屏短剧",
+      "role": "AI 影像作品",
+      "description": "",
+      "sections": [],
+      "gallery": [],
+      "cover": "media/ai-25.jpg",
+      "videos": [
+        {
+          "id": "ai-25",
+          "title": "转正后一炮三胎",
+          "src": "media/ai-25.mp4",
+          "poster": "media/ai-25.jpg"
+        }
+      ],
+      "aspect": "portrait"
+    },
+    {
+      "id": "film-01",
+      "title": "天不应",
+      "category": "AI 影像",
+      "subcategory": "AI 横屏精品电影",
+      "role": "AI 影像作品",
+      "description": "",
+      "sections": [],
+      "gallery": [],
+      "cover": "media/film-01.jpg",
+      "videos": [
+        {
+          "id": "film-01",
+          "title": "天不应3分钟PV 2",
+          "src": "media/film-01.mp4",
+          "poster": "media/film-01.jpg"
+        },
+        {
+          "id": "film-02",
+          "title": "天不应8min",
+          "src": "media/film-02.mp4",
+          "poster": "media/film-02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "film-03",
+      "title": "蛊心",
+      "category": "AI 影像",
+      "subcategory": "AI 横屏精品电影",
+      "role": "AI 影像作品",
+      "description": "",
+      "sections": [],
+      "gallery": [],
+      "cover": "media/film-03.jpg",
+      "videos": [
+        {
+          "id": "film-03",
+          "title": "蛊心demo",
+          "src": "media/film-03.mp4",
+          "poster": "media/film-03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "film-04",
+      "title": "青城山",
+      "category": "AI 影像",
+      "subcategory": "AI 横屏精品电影",
+      "role": "AI 影像作品",
+      "description": "",
+      "sections": [],
+      "gallery": [],
+      "cover": "media/film-04.jpg",
+      "videos": [
+        {
+          "id": "film-04",
+          "title": "青城山",
+          "src": "media/film-04.mp4",
+          "poster": "media/film-04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ad-01",
+      "title": "巧媳妇",
+      "category": "AI 影像",
+      "subcategory": "宣传片 / 广告",
+      "role": "",
+      "description": "",
+      "sections": [],
+      "gallery": [],
+      "cover": "media/ad-01.jpg",
+      "videos": [
+        {
+          "id": "ad-01",
+          "title": "巧媳妇",
+          "src": "media/ad-01.mp4",
+          "poster": "media/ad-01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ad-02",
+      "title": "一线之光",
+      "category": "AI 影像",
+      "subcategory": "宣传片 / 广告",
+      "role": "",
+      "description": "",
+      "sections": [],
+      "gallery": [],
+      "cover": "media/ad-02.jpg",
+      "videos": [
+        {
+          "id": "ad-02",
+          "title": "一线之光",
+          "src": "media/ad-02.mp4",
+          "poster": "media/ad-02.jpg"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "12cbd8f4-08e0-4509-8b5e-61802a57300c"
+}
